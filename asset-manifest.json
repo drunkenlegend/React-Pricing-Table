@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React-Pricing-Table/static/css/main.c1060065.chunk.css",
+    "main.js": "/React-Pricing-Table/static/js/main.7a0c7d02.chunk.js",
+    "main.js.map": "/React-Pricing-Table/static/js/main.7a0c7d02.chunk.js.map",
+    "runtime-main.js": "/React-Pricing-Table/static/js/runtime-main.a7910a30.js",
+    "runtime-main.js.map": "/React-Pricing-Table/static/js/runtime-main.a7910a30.js.map",
+    "static/css/2.d65fdcc0.chunk.css": "/React-Pricing-Table/static/css/2.d65fdcc0.chunk.css",
+    "static/js/2.af738b81.chunk.js": "/React-Pricing-Table/static/js/2.af738b81.chunk.js",
+    "static/js/2.af738b81.chunk.js.map": "/React-Pricing-Table/static/js/2.af738b81.chunk.js.map",
+    "static/js/3.3e36c9f3.chunk.js": "/React-Pricing-Table/static/js/3.3e36c9f3.chunk.js",
+    "static/js/3.3e36c9f3.chunk.js.map": "/React-Pricing-Table/static/js/3.3e36c9f3.chunk.js.map",
+    "index.html": "/React-Pricing-Table/index.html",
+    "static/css/2.d65fdcc0.chunk.css.map": "/React-Pricing-Table/static/css/2.d65fdcc0.chunk.css.map",
+    "static/css/main.c1060065.chunk.css.map": "/React-Pricing-Table/static/css/main.c1060065.chunk.css.map",
+    "static/js/2.af738b81.chunk.js.LICENSE.txt": "/React-Pricing-Table/static/js/2.af738b81.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7910a30.js",
+    "static/css/2.d65fdcc0.chunk.css",
+    "static/js/2.af738b81.chunk.js",
+    "static/css/main.c1060065.chunk.css",
+    "static/js/main.7a0c7d02.chunk.js"
+  ]
+}
