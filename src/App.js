@@ -9,11 +9,11 @@ function App() {
       <HashRouter basename="/">
 
         <Navi />
-        <Switch>
+        
           <Route path='/' exact component={Pricing} />
           <Route path='/pricing' exact component={Pricing} />
           
-        </Switch>
+       
       </HashRouter>
 
     </div>
