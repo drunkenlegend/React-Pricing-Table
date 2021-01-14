@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-pricing-table/static/css/main.a36d5ad4.chunk.css",
-    "main.js": "/react-pricing-table/static/js/main.1bf966bc.chunk.js",
-    "main.js.map": "/react-pricing-table/static/js/main.1bf966bc.chunk.js.map",
+    "main.js": "/react-pricing-table/static/js/main.fe4dfcce.chunk.js",
+    "main.js.map": "/react-pricing-table/static/js/main.fe4dfcce.chunk.js.map",
     "runtime-main.js": "/react-pricing-table/static/js/runtime-main.ccba35df.js",
     "runtime-main.js.map": "/react-pricing-table/static/js/runtime-main.ccba35df.js.map",
     "static/css/2.d65fdcc0.chunk.css": "/react-pricing-table/static/css/2.d65fdcc0.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.d65fdcc0.chunk.css",
     "static/js/2.b4ab9742.chunk.js",
     "static/css/main.a36d5ad4.chunk.css",
-    "static/js/main.1bf966bc.chunk.js"
+    "static/js/main.fe4dfcce.chunk.js"
   ]
 }
