@@ -11,7 +11,7 @@ function Navi() {
                     <Nav className="mr-auto">
                     <Nav.Link href="https://teamaimed.com/index.html">Home</Nav.Link>
                     <Nav.Link href="https://teamaimed.com/about.html">About</Nav.Link>
-                    <Nav.Link href="/pricing">Pricing</Nav.Link>
+                    <Nav.Link href="react-pricing-table/#/pricing">Pricing</Nav.Link>
                     <Nav.Link href="https://teamaimed.com/contact.html">Contact</Nav.Link>
                     <NavDropdown title="Features" id="collasible-nav-dropdown">
                         <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
