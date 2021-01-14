@@ -5,7 +5,7 @@ function Navi() {
     return (
         <div>
            <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
-                <Navbar.Brand href="/"><h3>Teamaimed</h3></Navbar.Brand>
+                <Navbar.Brand href="#/pricing"><h3>Teamaimed</h3></Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="mr-auto">
